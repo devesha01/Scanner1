@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(201, 230, 240);
+}
+.center{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    border-radius: 20px;
+    position: absolute;
+    top:90px;
+    left:470px;
+}
+.div2{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+img{
+ position: absolute;
+ height: 170px;
+ width: 200px;
+ left:60px;
+ top:70px;
+ opacity: 100%;
+}
+h2{
+    text-align: center;
+    background-color: white;   
+}
+h3{
+    background-color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 300;
+    
+}
